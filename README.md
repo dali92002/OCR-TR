@@ -18,7 +18,7 @@ conda activate vit
 ```
 
 ## Prepare Data
-For this task we will create a synthetic data that sumulate the handwritten text. I choosed to create the dataset from the EMNIST dataset (digits+characters). I created 80000 images for training, 10000 for validation and 10000 for testing. The images are composed of randomly concatenated characters with a size between 3 and 10.
+For this task we will create a synthetic data that simulate the handwritten text. I choosed to create the dataset from the EMNIST dataset (digits+characters). I created 80000 images for training, 10000 for validation and 10000 for testing. The images are composed of randomly concatenated characters with a size between 3 and 10.
 
 The code of preparing the dataset can be found in the file prepare_data.py , to execute it, use the following command:
 
