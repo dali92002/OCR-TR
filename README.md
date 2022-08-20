@@ -1,6 +1,6 @@
 # OCR-TR
 ## Description
-A imple pytorch implementation for an OCR model. The model is using a Transformer encoder-decoder architecture in a seq2seq fashion.
+A simple pytorch implementation for an OCR model. The model is using a Transformer encoder-decoder architecture in a seq2seq fashion.
 
 <img src="./imgs/OCR-TR.png"  alt="1">
 
