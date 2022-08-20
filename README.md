@@ -5,7 +5,7 @@ A simple pytorch implementation for an OCR model. The model is using a Transform
 <img src="./imgs/OCR-TR.png"  alt="1">
 
 ## Download Code
-clone the repoitory
+clone the repository
 ```bash
 git clone https://github.com/dali92002/OCR-TR
 cd OCR-TR
